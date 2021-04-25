@@ -1,11 +1,10 @@
-from random import seed
 import random
-from time import sleep
+import time
 
-log_file = open('/home/sam/Dev/logio/test-logio/var/logs/test.log', 'a')
+log_file = open('/home/sam/Dev/useful-logger/test-logio/var/logs/test.log', 'a')
 
-for i in range(0, 1000000):
+for i in range(0, 5):
     log_file.write(f'my random: {random.randint(1, 300)}\n')
-    sleep(0.00001)
+    time.sleep(1)
 
 # print(random())

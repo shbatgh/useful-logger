@@ -1,0 +1,21 @@
+{
+  "messageServer": {
+    "host": "127.0.0.1",
+    "port": 6689
+  },
+  "inputs": [
+    {
+      "source": "server1",
+      "stream": "app1",
+      "config": {
+        "path": "/home/sam/Dev/logio/test-logio/var/logs/test.log"
+      }
+    }, {
+      "source": "server2",
+      "stream": "app2",
+      "config": {
+        "path": "/home/sam/Dev/logio/test-logio/var/logs/test2.log"
+      }
+    }
+  ]
+}
