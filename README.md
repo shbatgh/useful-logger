@@ -1,5 +1,8 @@
 # useful-logger
 
+FOR SOME REASON THE TEXT FORMATTING IS WEIRD
+I RECOMMEND VIEWING THE RAW VERSION
+
 To run the server webpage enter the command log.io-server.
 To run the file input enter the command log.io-file-input.
 
