@@ -1,7 +1,7 @@
 # useful-logger
 
-To run the server webpage enter the command log.io-server
-To run the file input enter the command log.io-file-input
+To run the server webpage enter the command log.io-server.
+To run the file input enter the command log.io-file-input.
 
 The server webpage will look for configuration commands by default from ~/.log.io/server.json. You can change this by adding this text into your path (to change on ubuntu use nano/vim/text editor to open /etc/environment) (you can replace the directories with one of your choosing) LOGIO_SERVER_CONFIG_PATH="/home/sam/logios/server.json"
 
