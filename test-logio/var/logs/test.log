@@ -1,10 +1,15 @@
-my random: 116
-my random: 74
-my random: 77
-my random: 27
-my random: 256
-my random: 182
-my random: 270
-my random: 228
-my random: 280
-my random: 249
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
+my random: {random.randint(1, 300)}
