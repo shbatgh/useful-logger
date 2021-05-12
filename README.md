@@ -1,16 +1,14 @@
 # useful-logger
 
-To run the server webpage enter the command log.io-server
-To run the file input enter the command log.io-file-input
+FOR SOME REASON THE TEXT FORMATTING IS WEIRD
+I RECOMMEND VIEWING THE RAW VERSION
 
-The server webpage will look for configuration commands by default from ~/.log.io/server.json. 
-You can change this by adding this text into your path (to change on ubuntu use nano/vim/text 
-editor to open /etc/environment) (you can replace the 
-directories with one of your choosing) LOGIO_SERVER_CONFIG_PATH="/home/sam/logios/server.json"
+To run the server webpage enter the command log.io-server.
+To run the file input enter the command log.io-file-input.
 
-Running log.io-file-input will look for instructions from /.log.io/inputs/file.json. 
-To change the file input configuration type this into your path (you can replace the 
-directories with one of your choosing): 
+The server webpage will look for configuration commands by default from ~/.log.io/server.json. You can change this by adding this text into your path (to change on ubuntu use nano/vim/text editor to open /etc/environment) (you can replace the directories with one of your choosing) LOGIO_SERVER_CONFIG_PATH="/home/sam/logios/server.json"
+
+Running log.io-file-input will look for instructions from /.log.io/inputs/file.json. To change the file input configuration type this into your path (you can replace the directories with one of your choosing): 
 LOGIO_FILE_INPUT_CONFIG_PATH="/home/sam/logios/inputs/file.json"
 
 SAMPLE SERVER CONFIG FILE:
